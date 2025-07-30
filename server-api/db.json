@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "8a70372f-55c5-473e-9862-7abb4f268686",
+      "name": "Swathi Priya Mardi",
+      "email": "mardiswati@gmail.com"
+    },
+    {
+      "id": "6560210f-fc42-4d88-a0c4-afda912fbbc1",
+      "name": "test",
+      "email": "test1@gmail.com"
+    },
+    {
+      "id": "3e9603c6-bf4c-4938-9b45-5eebbf548ede",
+      "name": "Ritesh ",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "4a691475-aecd-48dd-b4e8-e91c0e806706",
+      "name": "Testing",
+      "email": "priya@gmail.com"
+    },
+    {
+      "id": "ece0d063-9d8f-4c0b-a9f1-e4e84810b430",
+      "name": "Hrithik ",
+      "email": "hm@gmail.com"
+    },
+    {
+      "id": "30689fac-d5a0-49c8-ae86-716ae874a284",
+      "name": "Swathi Priya Mardi",
+      "email": "mardiswati@gmail.com"
+    }
+  ]
+}
