@@ -2,8 +2,6 @@
 
 A feature-rich, modern contact management application built with React, featuring a modular architecture, dark/light themes, and comprehensive contact management capabilities.
 
-![ContactHub Screenshot](https://via.placeholder.com/800x400/3b82f6/ffffff?text=ContactHub+Demo)
-
 ## ✨ Features
 
 ### 🎯 Core Functionality
